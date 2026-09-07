@@ -9,4 +9,4 @@ Planejar a organização das telas antes da implementação em HTML e CSS.
 - Detalhes do local
 
 ## Link do Figma
-O link será adicionado após a criação do wireframe.
+Arquivo do Figma: https://www.figma.com/design/z36EmD7Jwsuarb4F5ynbf0/Conecta-Campus---Wireframe-v0.2?node-id=0-1&t=tNHQDfFQU7Y6PeNr-1
