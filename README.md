@@ -16,3 +16,4 @@ Marcos Paulo
 - Inserir o primeiro CSS.
 - Trabalhar o primeiro evento JS.
 
+Repositório acadêmico criado na primeira semana do curso
